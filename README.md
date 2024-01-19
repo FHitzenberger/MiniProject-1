@@ -1,7 +1,3 @@
-Certainly! Here's a short description of your MiniProject for the README file on your GitHub repository:
-
----
-
 # MiniProject: Austrian Baby Names Analysis
 
 **Class:** 4th Grade, HTL Wiener Neustadt  
