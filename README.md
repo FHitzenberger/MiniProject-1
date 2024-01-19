@@ -29,4 +29,4 @@ This MiniProject was undertaken as part of the curriculum in the 4th grade at HT
 4. **Review Datasets:** Check the CSV files for cleaned and processed data
 5. **README:** Refer to the README file for additional details and project insights
 
-Feel free to use, share, or modify this project for educational purposes. If you have any questions or suggestions, please reach out to the project contributors. Happy exploring!
+Feel free to use or share this project for educational purposes. If you have any questions or suggestions, please reach out to the project contributors. Happy exploring!
