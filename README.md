@@ -1,7 +1,7 @@
 # MiniProject: Austrian Baby Names Analysis
 
 **Class:** 4th Grade, HTL Wiener Neustadt  
-**Subject:** Data Science and Artificial Intelligence  
+**Subject:** Data Science and Artificial Intelligence  (DSAI)
 
 ## Overview
 
